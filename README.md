@@ -1,3 +1,9 @@
+**This repository is no longer maintained.**
+
+This repository is transfer to permissions-dispatcher org.
+
+Please check https://github.com/permissions-dispatcher/permissions-dispatcher-plugin
+
 # PermissionsDispatcher plugin
 
 IntelliJ plugin for supporting [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher). This is NOT official plugin.
